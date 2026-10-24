@@ -94,4 +94,3 @@ Python · face_recognition (dlib) · OpenCV · NumPy · Pillow · Matplotlib · 
 
 ## 👩‍💻 Author
 **Ana Shahid**
-[LinkedIn](https://www.linkedin.com/in/ana-shahid-243533180) | [GitHub](https://github.com/anashahid01-web)
